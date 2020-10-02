@@ -57,7 +57,7 @@ function draw() {
  
   //add code here
   
-  if (keyWentDown("space")) {
+  if (keyDown("space")) {
   createarrow();
   
   }
